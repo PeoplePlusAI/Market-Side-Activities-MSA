@@ -38,9 +38,11 @@ Their questions:
 - How do we connect with potential investors and partners?
 
 **Activities**:
-1. Advanced AI Learning Series and Challenge Competitions: Engage AI professionals and enthusiasts with educational and competitive events.
+1. Workshops on productionising LLMs.
+2. Advanced AI Learning Series and Challenge Competitions: Engage AI professionals and enthusiasts with educational and competitive events.
 3. Activities: Challenge Competitions
-5. Hackathon 
+4. Hackathon
+5. Product Showcases or breakdowns, etc.
 
 ## 2. Founders and Startups 
 (Related to 1, but different enough to mention separately.)
