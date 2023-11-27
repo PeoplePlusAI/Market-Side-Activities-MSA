@@ -1,9 +1,13 @@
 > Charters live within a working groups GitHub Repository. This is an empty template to craft a charter.
 
-# Anchor: Insert name of Anchor
+# Anchor: Harsha Garlapati
 
 # Collective Hope/ Dream
-> An imagined future that the group hopes to make a reality. A crisp, evocative and vivid description that can help supporters and volunteers understand the groups north star.
+P+AI should be recognized as the central hub for AI in India, a place where one can tap into the pulse of the AI industry.
+
+## Path to Achieving This:
+**1. Brand Building:** Amplify brand awareness through targeted marketing campaigns, thought leadership, and engaging digital content.
+**2. Community Development:** Cater to the diverse needs of various AI communities by providing relevant information, resources, and networking opportunities.
 
 # Next Commitments
 > A list of the immediate commitments made by a group. This can include the next meeting date, research, documentation etc.
