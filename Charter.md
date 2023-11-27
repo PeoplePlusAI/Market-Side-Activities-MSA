@@ -7,6 +7,7 @@ P+AI should be recognized as the central hub for AI in India, a place where one 
 
 ## Path to Achieving This:
 **1. Brand Building:** Amplify brand awareness through targeted marketing campaigns, thought leadership, and engaging digital content.
+
 **2. Community Development:** Cater to the diverse needs of various AI communities by providing relevant information, resources, and networking opportunities.
 
 # Next Commitments
