@@ -1,5 +1,3 @@
-> Charters live within a working groups GitHub Repository. This is an empty template to craft a charter.
-
 # Anchor: Harsha Garlapati
 
 # Collective Hope/ Dream
