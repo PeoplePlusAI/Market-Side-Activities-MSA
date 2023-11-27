@@ -25,14 +25,21 @@ https://www.lxdlab.org/motivation-matters/tools
 
 # Checklists
 ## Pre-Event Check
- 1. Every event to have WhatsApp and numbers collected
- 2. Have very clear owners. Very clear roles at a job description level. Who will order etc.
- 3. Every event to have whatsapp and numbers collected
+ 1. Ensure you have twice the registrations as you need for the invitation. i.e. Assume on averge a 50% drop-off for people in attending the event after registering.
+ 2. Every event to have WhatsApp and numbers collected
+ 3. Have very clear owners. Very clear roles at a job description level. Who will order etc.
+ 4. Every event to have whatsapp and numbers collected.
 
 ## During Event Checklist
  1. Always leave time to people to talk to each other. A mixer.
-Post-Event
- 1. Clear Call to Action: Survey, add you to our newsletter, cross pollinating, talk about volunteer call list or OCC rtc
+ 2. Ensure you have the essentials of food, coffee, water, glasses, ready before the event kicks-off.
+ 3. Ensure the AC/fan/lighting is working as expected in the room.
+ 4. Ensure the speaker and display connections are setup and working fine.
+ 5. Ensure that the note-taking and recording including mics are testing and working fine.
+
+
+## Post-Event
+ 1. Clear Call to Action: Survey, add you to our newsletter, cross pollinating, talk about volunteer call list or OCC etc.
  2. Vote on next questions and. Add 1 m
  3. Send the form right away. Schedule an email and keep right after with goodies
  4. Survey
