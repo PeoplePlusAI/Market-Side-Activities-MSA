@@ -21,11 +21,9 @@ P+AI should be recognized as the central hub for AI in India, a place where one 
 1. Newsletter
 4. Podcast that uncovers insights on what Indian leaders in AI are doing.
 
-
-
 # Customer Profiles & Their Needs
 
-## 1. Industry Practitioners or Developers
+## 1. Industry Practitioners 
 
 - Profile: These are _people_ in emerging AI companies and people in companies with emerging AI capabilities. Startups/Founders and AI Professionals/Enthusiasts
 - What should they think of us?: These are the guys that organise interesting events and sessions. They also showcase areas of opportunities and help connect with the right people.
@@ -44,7 +42,7 @@ Their questions:
 4. Hackathon
 5. Product Showcases or breakdowns, etc.
 
-## 2. Founders and Startups 
+### 1.1. Founders and Startups 
 (Related to 1, but different enough to mention separately.)
 
 - What should they think of us?: PeoplePlus.ai is an invaluable partner for startups, offering access to capital, mentorship, and a strong network within the AI community.
@@ -56,7 +54,7 @@ access to venture capital,  mentorship opportunities with AI industry leaders
 2. Startups-focused Mentorship Programs. 
 
 
-## 3. Companies Working with AI
+### 1.2. Companies Working with AI
 - Profile: These are _companies_ creating AI applications.
 - Perception to Build: Corporates view us as a destination to collaborate with startups or AI people and identify opportunities and help fill gaps in research vs industry.
 
@@ -67,7 +65,18 @@ access to venture capital,  mentorship opportunities with AI industry leaders
 3. Corporate AI Integration Workshops.
 4. AI Solution Demonstrations.
 
-## 4. Researchers & Education Institutes
+## 2. Developers and Enthusiasts (Domain experts or general enthusiasts)
+- Profile: People wanting to get into AI to learn to build apps or deploy solutions within their domain. They are not experts in AI but might 
+- Most Value: Knowledge and skill development, hiring events
+- Key Needs: Advanced learning resources, community engagement, networking opportunities.
+
+**Activities:** 
+1. Hackathons and AI Challenge Competitions to demonstrate skills 
+2. Peer Mentorship Program
+3. Education Platform
+5. Community Building Events.
+
+## 3. Researchers & Education Institutes
 - Profile: Independent Researchers in non-profits and Educational Institutes 
 - What should they think of us?: PeoplePlus.ai is a catalyst for transforming AI research into real-world applications, fostering collaborations that push the boundaries of AI
 - Most value: Network to find collaborators
@@ -78,7 +87,7 @@ access to venture capital,  mentorship opportunities with AI industry leaders
 5. Collaborative Research Grants and Projects.
 6. Educational Partnership Programs.
 
-## 5. VCs
+## 4. VCs
 - Profile: Venture and Angel Investors
 - Perception to Build: VCs view us as a resource for identifying latest use-cases and trends for AI and connecting with innovative AI startup
 - Most value: Network to find startups
@@ -89,19 +98,8 @@ access to venture capital,  mentorship opportunities with AI industry leaders
 2. Investor Intelligence Reports
 3. Roundtable Discussions.
 
-## 6. Enthusiasts (Domain experts or general enthusiasts)
-- Profile: People wanting to get into AI to learn to build apps or deploy solutions within their domain. They are not experts in AI but might 
-- Most Value: Knowledge and skill development.
-- Key Needs: Advanced learning resources, community engagement, networking opportunities.
 
-**Activities:** 
-1. Peer Mentorship Program
-2. Education Platform
-3. AI Challenge Competitions
-4. Community Building Events.
-
-
-## 6. Government Institutions & Policy Makers 
+## 5. Government Institutions & Policy Makers 
 - Profile: Organisations either directly run or associated with the Government.
 - Key Needs: Understanding of AI's impact on society, economy, and technology trends. And implementation on ideas 
 
