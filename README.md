@@ -25,7 +25,7 @@ P+AI should be recognized as the central hub for AI in India, a place where one 
 
 # Customer Profiles & Their Needs
 
-## 1. Industry Practitioners 
+## 1. Industry Practitioners or Developers
 
 - Profile: These are _people_ in emerging AI companies and people in companies with emerging AI capabilities. Startups/Founders and AI Professionals/Enthusiasts
 - What should they think of us?: These are the guys that organise interesting events and sessions. They also showcase areas of opportunities and help connect with the right people.
@@ -56,7 +56,7 @@ access to venture capital,  mentorship opportunities with AI industry leaders
 2. Startups-focused Mentorship Programs. 
 
 
-## 3. Companies Investing in AI
+## 3. Companies Working with AI
 - Profile: These are _companies_ creating AI applications.
 - Perception to Build: Corporates view us as a destination to collaborate with startups or AI people and identify opportunities and help fill gaps in research vs industry.
 
