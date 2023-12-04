@@ -6,3 +6,5 @@
 * [Contributors](Contributors.md)
 * [Timeline](Timeline.md)
 * [Index\_Docs](Index\_Docs.md)
+* [Archive of Events](archive-of-events/README.md)
+  * [Understanding LLM Economics](archive-of-events/understanding-llm-economics.md)

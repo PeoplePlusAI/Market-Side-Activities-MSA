@@ -2,7 +2,7 @@
 
 On 25th November, we conducted a discussion and talk event with around 10 industry AI practitioners. It was on Understanding LLM Economics. Out of the Setu office. Here are some learnings based on this first event.
 
-&#x20;  Learnings Our friends at LXDLab have created tools we should keep in mind to design a good learning experience event. https://www.lxdlab.org/motivation-matters/tools
+&#x20;Learnings Our friends at LXD Lab have created tools we should keep in mind to design a good learning experience event. [Read them here](https://www.lxdlab.org/motivation-matters/tools).
 
 ## Rules
 
@@ -47,7 +47,9 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 
 * [ ] Every event to have WhatsApp and numbers collected
 * [ ] Have very clear owners. Very clear roles at a job description level. Who will order etc.
-* [ ] Every event to have whatsapp and numbers collected.
+* [ ] Every event to have WhatsApp and numbers collected.
+
+
 
 ### During Event Checklist
 
