@@ -42,6 +42,7 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 * [ ] All the equipment checks
 * [ ] Seating arrangement
 * [ ] Recording & Photography owners are defined
+* [ ] Poster in ground floor/entrance of venue pointing to exact venue location.
 
 #### Pre-Event Comms
 
