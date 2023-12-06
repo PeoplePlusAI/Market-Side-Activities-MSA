@@ -71,7 +71,8 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 ### Post-Event
 
 * [ ] Write down names of every person that attended in the CMS. Were they active. What is the NPS, etc.
-* [ ] Call each of them.  Do they want to present, invite people. Have them feel ownership
+* [ ] Call each of them.  Do they want to present, invite people. Have them feel ownership.
+* [ ] Asif to add to CRM through Make Automation.
 
 #### Post-Event Comms
 
