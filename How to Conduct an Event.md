@@ -38,6 +38,7 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 
 #### Session Logistics
 
+* [ ] Venue is decided, open & has someone to assist with security and logistic
 * [ ] F\&B is planned for
 * [ ] All the equipment checks
 * [ ] Seating arrangement
@@ -66,6 +67,7 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 #### Facilitation/Moderation - this is end-to-end facilitation -
 
 * [ ] Who greets when people come in
+* [ ] LUMA Check-in everyone coming in for CRM
 * [ ] Who ends the session and next steps etc.
 
 ### Post-Event
