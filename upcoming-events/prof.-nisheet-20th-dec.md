@@ -1,8 +1,8 @@
-# Prof. Nisheet
+# Prof. Nisheet - 20th Dec
 
 <details>
 
-<summary>Event Checklist</summary>
+<summary>Event Checklist v0.3</summary>
 
 ### Pre-Event Check
 

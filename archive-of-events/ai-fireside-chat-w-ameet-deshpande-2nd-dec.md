@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Event Checklist</summary>
+<summary>Event Checklist 0.2</summary>
 
 ### Pre-Event Check
 
