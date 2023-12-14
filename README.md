@@ -6,17 +6,57 @@ description: >-
 
 # README
 
-## Anchor: Harsha Garlapati
+Anchor: Harsha Garlapati
 
-## Collective Hope/ Dream
+## Collective Hope/Dream
 
-P+AI should be able as the central AI network, community and resources hub in India. A place where one can tap into the pulse of the AI industry.
+**Success of this project: We want to make India's AI ecosystem thrive.**&#x20;
+
+This means creating a community and resources hub for India. A place where one can tap into the pulse of the AI industry. A place to connect with really interesting AI startups, companies, enterprises, researchers, etc.&#x20;
+
+
+
+**The goal is to:**
+
+1. **Catalyse** India’s AI community for shared learning.
+2. **Create** open resources ourselves to share with them.
+3. **Learn** the challenges the community needs in the process and help the community learn about AI, and use-cases in AI.
+
+
+
+San Francisco has dozens of AI evens happening everyday. In India we have a magnitude less. Bangalore and India has a much larger number of developers and AI enthusiasts. We want to bridge that gap.
+
+
 
 ### Path to Achieving This:
 
-**1. Brand Building:** Amplify brand awareness through targeted marketing campaigns, thought leadership, and engaging digital content.
+Cater to the diverse needs of various AI communities by providing relevant information, resources, and networking opportunities.
 
-**2. Community Development:** Cater to the diverse needs of various AI communities by providing relevant information, resources, and networking opportunities.
+
+
+### Broad Scope of Activities:
+
+#### 1. Organise & Present Information :
+
+Anonymised insider information and use-case lead (demand shaping) and macro-predictions.
+
+1. Podcast. Does this belong here? Be talking to leading podcasters.
+2. Use-case Tracker in Adbhut India.
+
+#### 2. Network & Events  of people to connect with mentors, VCs, etc. Activities: Physical events. Eg: Weekly paper reading.
+
+1. Learning Community. Tentative. 25th Nov workshop
+2. Workshops, Talks, etc.
+3. Learnathon. TBA.
+
+#### 3. **Create Resources**
+
+1. Newsletter. What's the cadence?
+2. Publishing reports, like Red Seer Report.
+3. Publishing Dharmesh's thematic analysis.
+4. VC and Startups Connect. Initially: List of Indian AI startups and their work. Can ask someone like Tracxn to create an AI track. Bala knows Neha and team well. Get them to do it.
+
+
 
 ## Next Commitments
 
@@ -27,12 +67,14 @@ P+AI should be able as the central AI network, community and resources hub in In
 1. Industry Practitioners - Talks with speakers for practitioners. Eg: December Lecture Series. Peer learning sessions for Practitioners
 2. Developers Community - Create resources.
 3. Hackathon for Workshops for enthusiasts. Eg: Hands-on from idea to output for AI in Indian use-cases
-4. . Connector sessions for VCs and Startups Based on the peer learning session of Practitioners Workshop series.
+4. Connector sessions for VCs and Startups Based on the peer learning session of Practitioners Workshop series.
 
 ### 2. **Resources**.
 
 1. Newsletter
 2. Podcast that uncovers insights on what Indian leaders in AI are doing.
+
+***
 
 ## Customer Profiles & Their Needs
 
@@ -139,9 +181,11 @@ Their questions:
 2. AI Industry Reports
 3. Government-Industry Collaboration Events.
 
-
+***
 
 ## **Brand Building Activities Common to All**:
+
+These are activities being carried out by People+ai to&#x20;
 
 1. Podcast and Newsletter to build brand awareness and create information.
 2. Use-case Tracker in Adbhut India.
@@ -149,27 +193,7 @@ Their questions:
 4. Publishing reports, like Red Seer Report.
 5. Publishing Dharmesh's thematic analysis.
 
-## Broad Scope of Activities
-
-#### 1. Organise & Present Information :
-
-Anonymised insider information and use-case lead (demand shaping) and macro-predictions.
-
-1. Podcast. Does this belong here? Be talking to leading podcasters.
-2. Use-case Tracker in Adbhut India.
-
-#### 2. Network & Events  of people to connect with mentors, VCs, etc. Activities: Physical events. Eg: Weekly paper reading.
-
-1. Learning Community. Tentative. 25th Nov workshop
-2. Workshops, Talks, etc.
-3. Learnathon. TBA.
-
-#### 3. **Create Resources**
-
-1. Newsletter. What's the cadence?
-2. Publishing reports, like Red Seer Report.
-3. Publishing Dharmesh's thematic analysis.
-4. VC and Startups Connect. Initially: List of Indian AI startups and their work. Can ask someone like Tracxn to create an AI track. Bala knows Neha and team well. Get them to do it.
+###
 
 
 
