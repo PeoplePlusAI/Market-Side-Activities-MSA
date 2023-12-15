@@ -12,6 +12,7 @@
   * [Prof. Nisheet - 20th Dec](upcoming-events/prof.-nisheet-20th-dec.md)
   * [Abhradeep and Jana - 22nd Dec](upcoming-events/abhradeep-and-jana-22nd-dec.md)
   * [Building Reliable LLMs - 6th January](upcoming-events/building-reliable-llms-6th-january.md)
+  * [Datathon w/ AI4Bharat - 27th Jan](upcoming-events/datathon-w-ai4bharat-27th-jan.md)
 * [📥 Archive of Events](archive-of-events/README.md)
   * [AI Fireside Chat w/ Ameet Deshpande - 2nd Dec](archive-of-events/ai-fireside-chat-w-ameet-deshpande-2nd-dec.md)
   * [Understanding LLM Economics - 25th Nov](archive-of-events/understanding-llm-economics-25th-nov.md)
