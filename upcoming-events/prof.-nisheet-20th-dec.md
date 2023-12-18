@@ -1,5 +1,9 @@
 # Prof. Nisheet - 20th Dec
 
+Event
+
+{% embed url="https://lu.ma/ai-and-society" %}
+
 <details>
 
 <summary>Event Checklist v0.3</summary>
@@ -8,7 +12,8 @@
 
 #### Session Logistics
 
-* [ ] Venue is decided, open & has someone to assist with security and logistics
+* [x] Speaker is informed and double confirmed on the venue
+* [x] Venue is decided, open & has someone to assist with security and logistics
 * [ ] F\&B is planned for
 * [ ] All the equipment checks
 * [ ] Seating arrangement
@@ -50,3 +55,4 @@
 * [ ] Survey: What did you gain out of this?
 
 </details>
+

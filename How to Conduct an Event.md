@@ -34,11 +34,16 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 
 ## Checklists
 
+<details>
+
+<summary>Event Checklist v0.3</summary>
+
 ### Pre-Event Check
 
 #### Session Logistics
 
-* [ ] Venue is decided, open & has someone to assist with security and logistic
+* [ ] Speaker is informed and double confirmed on the venue
+* [ ] Venue is decided, open & has someone to assist with security and logistics
 * [ ] F\&B is planned for
 * [ ] All the equipment checks
 * [ ] Seating arrangement
@@ -49,9 +54,6 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 
 * [ ] Every event to have WhatsApp and numbers collected
 * [ ] Have very clear owners. Very clear roles at a job description level. Who will order etc.
-* [ ] Every event to have WhatsApp and numbers collected.
-
-
 
 ### During Event Checklist
 
@@ -66,8 +68,8 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 
 #### Facilitation/Moderation - this is end-to-end facilitation -
 
-* [ ] Who greets when people come in
-* [ ] LUMA Check-in everyone coming in for CRM
+* [ ] Who greets when people come in - <mark style="color:orange;">**HARSHA**</mark>
+* [ ] LUMA Check-in everyone coming in for CRM - <mark style="color:orange;">**HARSHA**</mark>
 * [ ] Who ends the session and next steps etc.
 
 ### Post-Event
@@ -81,7 +83,15 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 * [ ] Clear Call to Action in Survey, add you to our newsletter, cross pollinating, talk about volunteer call list or OCC etc.
 * [ ] Vote on next event interests/questions.
 * [ ] Send the form right away. Schedule an email and keep right after with goodies
-* [ ] Survey: What did you gain out of this
+* [ ] Survey: What did you gain out of this?
+
+</details>
+
+
+
+
+
+
 
 ### Future Event Checklist
 

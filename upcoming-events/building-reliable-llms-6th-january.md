@@ -2,6 +2,23 @@
 
 With Portkey.ai
 
+Sarvam.ai - Pratyush/other engineers can give a talk around it.
+
+
+
+**Outcome**
+
+1. Get a comprehensive sense of what market understands in terms of Reliability (especially in their context).
+2. Get a pulse check on what sub-problems are important to them - hallucination, adjusting parameters, prompt techniques, etc.
+3. Solution-level with layer-by-layer distinction. Sarvam
+
+**Later Scope**
+
+1. Conference on Reliability
+2. White-paper on Reliability in India.
+
+
+
 
 
 <details>
