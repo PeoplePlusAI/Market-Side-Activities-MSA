@@ -1,4 +1,4 @@
-# How to Conduct an Event
+# ⭐ How to Conduct an Event
 
 On 25th November, we conducted a discussion and talk event with around 10 industry AI practitioners. It was on Understanding LLM Economics. Out of the Setu office. Here are some learnings based on this first event.
 
@@ -49,6 +49,7 @@ On 25th November, we conducted a discussion and talk event with around 10 indust
 * [ ] Seating arrangement
 * [ ] Recording & Photography owners are defined
 * [ ] Poster in ground floor/entrance of venue pointing to exact venue location.
+* [ ] Emails for pre-event and post-event are edited and scheduled.
 
 #### Pre-Event Comms
 
