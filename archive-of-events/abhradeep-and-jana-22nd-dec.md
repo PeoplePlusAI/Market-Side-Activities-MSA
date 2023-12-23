@@ -1,19 +1,34 @@
-# Prof. Nisheet - 20th Dec
+# Abhradeep and Jana - 22nd Dec
 
-Event
+1. [Event Link on Luma](https://lu.ma/abhradeep-and-jana)
+2. [Read AI meeting notes & recording](https://app.read.ai/analytics/meetings/01HJ7RZ7PC9JE3KQ6B5JQ4RJ4R?utm\_source=Share\_CopyLink)
+3. Google Drive&#x20;
 
-{% embed url="https://lu.ma/ai-and-society" %}
+
 
 <details>
 
 <summary>Event Checklist v0.3</summary>
 
-### Pre-Event Check
+### <mark style="background-color:orange;">Pre-Event Check</mark>
+
+#### Goal
+
+* [ ] Proposal scope, goal and agenda is clearly defined and shared with the guest
+* [ ] Ensure the event has an event page
+
+#### Speaker & Hosts
+
+* [ ] Speaker time and date is confirmed
+* [ ] Clear owners are defined. Very clear roles at a job description level. Who will order etc.
+  * [ ] Host
+  * [ ] Facilitator
+  * [ ] Logistics Head
+  * [ ] Comms Head
 
 #### Session Logistics
 
-* [x] Speaker is informed and double confirmed on the venue
-* [x] Venue is decided, open & has someone to assist with security and logistics
+* [ ] Venue is decided, open & has someone to assist with security and logistics
 * [ ] F\&B is planned for
 * [ ] All the equipment checks
 * [ ] Seating arrangement
@@ -21,14 +36,25 @@ Event
 
 #### Pre-Event Comms
 
-* [ ] Every event to have WhatsApp and numbers collected
-* [ ] Have very clear owners. Very clear roles at a job description level. Who will order etc.
+* [ ] Luma has been setup with
+  * [ ] Poster
+  * [ ] Description
+  * [ ] Location
+  * [ ] Meeting Invite
+  * [ ] Additional Questions.
+  * [ ] WA and LinkedIn collection
+  * [ ] Approval-only setting
 
-### During Event Checklist
+
+
+### <mark style="background-color:purple;">During Event Checklist</mark>
 
 **30-60 mins before the event starts**
 
-* [ ] Always leave time to people to talk to each other. A mixer.
+**Rules**
+
+1. Always leave time to people to talk to each other. A mixer.
+
 * [ ] Ensure you have the essentials of food, coffee, water, glasses, ready before the event kicks-off.
 * [ ] Ensure the AC/fan/lighting is working as expected in the room.
 * [ ] Ensure the speaker and display connections are setup and working fine.
@@ -39,20 +65,29 @@ Event
 
 * [ ] Who greets when people come in - <mark style="color:orange;">**HARSHA**</mark>
 * [ ] LUMA Check-in everyone coming in for CRM - <mark style="color:orange;">**HARSHA**</mark>
-* [ ] Who ends the session and next steps etc.
+* [ ] Who ends the session and next steps etc. - <mark style="color:orange;">**HARSHA**</mark>
 
-### Post-Event
+### <mark style="background-color:blue;">Post-Event Checklist</mark>
+
+
+
+**Admin**
 
 * [ ] Write down names of every person that attended in the CMS. Were they active. What is the NPS, etc.
 * [ ] Call each of them.  Do they want to present, invite people. Have them feel ownership.
 * [ ] Asif to add to CRM through Make Automation.
 
-#### Post-Event Comms
+#### Comms
 
 * [ ] Clear Call to Action in Survey, add you to our newsletter, cross pollinating, talk about volunteer call list or OCC etc.
 * [ ] Vote on next event interests/questions.
 * [ ] Send the form right away. Schedule an email and keep right after with goodies
 * [ ] Survey: What did you gain out of this?
 
-</details>
 
+
+#### Recordings & Social Media
+
+* [ ] Ensure pictures, videos, etc. are added to Gitbook in the event page.
+
+</details>
