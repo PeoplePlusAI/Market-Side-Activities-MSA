@@ -18,10 +18,10 @@
 
 * [x] Speaker is informed and double confirmed on the venue
 * [x] Venue is decided, open & has someone to assist with security and logistics
-* [ ] F\&B is planned for
-* [ ] All the equipment checks
-* [ ] Seating arrangement
-* [ ] Recording & Photography owners are defined
+* [x] F\&B is planned for **- Asif + Babu**
+* [x] All the equipment checks - **Tripod + Phone + Mic - Asif**
+* [x] Seating arrangement **- Babu**
+* [x] Recording & Photography owners are defined **- Asif**
 
 #### Pre-Event Comms
 
